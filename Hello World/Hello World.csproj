@@ -6,4 +6,8 @@
     <RootNamespace>Hello_World</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="H:\Desktop\Hello World\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
 </Project>
